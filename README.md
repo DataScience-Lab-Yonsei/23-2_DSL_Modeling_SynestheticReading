@@ -6,7 +6,7 @@
 ## Team DSL 남승우 권수연 유현동 임세민
 ---
 # Overview
-[발표자료](팀별/깃허브_내_발표자료_주소)
+[발표자료](https://github.com/smnii13/SynestheticReading_TeamD/blob/main/Team_DSL_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 ## 1. Overall Pipeline
 
 ![image](https://github.com/smnii13/SynestheticReading_TeamD/assets/121654185/1e7df008-7b88-46a0-81ce-db2ea6a28d75)
