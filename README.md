@@ -38,7 +38,8 @@
 ![image](https://github.com/smnii13/SynestheticReading_TeamD/assets/121654185/2fa8b421-4ebe-4cbc-a1fb-548b74ba4a0d)
 
   
-  Emotion Classification: Ekman's 6 basic feelings: anger, disgust, fear, joy, sadness, surprise + neural 기반으로 동화 및 노래 가사 감정 분석하고자 함
+  Emotion Classification
+- Ekman's 6 basic feelings: anger, disgust, fear, joy, sadness, surprise + neural 기반으로 동화 및 노래 가사 감정 분석하고자 함
 - RoBERTa 활용 Spotify MillSong data 의 가사 / Section fairy tales 의 section story text 감정 분류, emotion vector 생성
 - Story emotion vector vs Music emotion vector 유클리디안 거리 기반으로 유사도 측정
 
